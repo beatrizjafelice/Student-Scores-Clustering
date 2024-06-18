@@ -2,7 +2,7 @@
 
 (EN)
 
-This assignment was a part of the 2024.1 Data Mining coursework at the Federal University of ABC (UFABC). Special thanks to professor Debora Medeiros :)
+This assignment was completed as part of the 2024.1 Data Mining coursework at the Federal University of ABC (UFABC). Special thanks to professor Debora Medeiros :)
 
 ## Assignment
 Conduct a clustering analysis in a database of your choice by following these steps:
